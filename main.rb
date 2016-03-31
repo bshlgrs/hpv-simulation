@@ -12,14 +12,14 @@ woman2_and_woman1_infected = 0
   people = [man1, man2, woman1, woman2]
 
   Simulation.simulate(people) do |s|
-    # In Febrary, I had protected sex with woman1 four times
+    # In Febrary, man1 had protected sex with woman1 four times
     s.simulate_month do
       4.times do
         woman1.have_sex_with(man1, true)
       end
     end
 
-    # In March through June, I had protected sex with woman2 five times per month
+    # In March through June, man1 had protected sex with woman2 five times per month
     # and man2 had sex with one stranger per month? (this doesn't change the result much)
     s.simulate_months(4) do
       5.times do
@@ -34,7 +34,7 @@ woman2_and_woman1_infected = 0
       man2.have_sex_with(woman1, true)
     end
 
-    # july through december, I had unprotected sex with woman1 about 4x a momth,
+    # july through december, man1 had unprotected sex with woman1 about 4x a momth,
     # and woman2 6x a month
     s.simulate_months(6) do
       6.times do
@@ -46,7 +46,7 @@ woman2_and_woman1_infected = 0
       end
     end
 
-    # three months of me having sex with just woman1
+    # three months of man1 having sex with just woman1
 
     s.simulate_months(3) do
       6.times do
