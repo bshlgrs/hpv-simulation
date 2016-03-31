@@ -2,6 +2,8 @@
 
 If I have regular sex with two women for a year, then one of them gets HPV, what's the chance that the other person has it? My friend asked me to calculate this, so here's some of my initial work.
 
+This README is a bunch of unstructured notes...
+
 Note that the numbers I have obviously don't add up. Here's a result from [a paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203235/):
 
 > Among 308 college-age women and their male sexual partners — all in relationships of less than 6 months' duration — researchers identified 179 couples discordant for one or more HPV types. About 6 months later, genital sampling indicated HPV transmission in 73 couples (41%). The transmission rate was 3.7 instances per 100 person-months, for a per-person transmission probability of about 20% during a 6-month period.
@@ -20,4 +22,3 @@ Another paper: http://aje.oxfordjournals.org/content/163/6/534.long
 
 more papers: http://www.dlsph.utoronto.ca/faculty-profile/burchell-ann-natalie/
 
-ann.burchell@utoronto.ca
