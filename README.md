@@ -1,8 +1,6 @@
 # HPV monte carlo simulation
 
-If I have regular sex with two women for a year, then one of them gets HPV, what's the chance that the other person has it? My friend asked me to calculate this, so here's some of my initial work.
-
-This README is a bunch of unstructured notes...
+If I have regular sex with two women for a year, then one of them gets HPV, what's the chance that the other person has it? My friend asked me to calculate this and some related numbers, so here's some of my initial work.
 
 Note that the numbers I have obviously don't add up. Here's a result from [a paper](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3203235/):
 
@@ -22,3 +20,4 @@ Another paper: http://aje.oxfordjournals.org/content/163/6/534.long
 
 more papers: http://www.dlsph.utoronto.ca/faculty-profile/burchell-ann-natalie/
 
+ann.burchell@utoronto.ca
